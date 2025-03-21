@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-routeguard",
+  "version": "1.0.0",
+  "description": "NodeJS Middleware for 301 Redirections",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.14.1"
+  }
+}
